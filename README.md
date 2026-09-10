@@ -52,7 +52,7 @@ Tools
 
 Clone the repository
 
-git clone https://github.com/your-username/chat-app.git
+git clone [https://github.com/your-username/chat-app.git](https://github.com/SurendraKumawat7742/chat-app.git)
 
 
 Install dependencies
@@ -72,7 +72,7 @@ npm start
 
 Open your browser and visit:
 
-http://localhost:3000
+http://localhost:5001
 
 📌 Project Use Case
 
@@ -88,11 +88,3 @@ Full Stack MERN development practice
 
 Better project structuring and code organization
 
-🤝 Contributing
-
-Contributions are welcome!
-Feel free to fork this repository and submit a pull request.
-
-📄 License
-
-This project is open-source and available under the MIT License.
