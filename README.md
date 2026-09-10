@@ -48,6 +48,31 @@ Tools
 
  * Postman
 
+## Project Architecture
+```text
+chat-app
+│
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── constants/
+│   │   ├── lib/
+│   │   ├── pages/
+│   │   └── store/
+│   └── package.json
+│
+├── backend/
+│   ├── src/
+│   │   ├── controllers/
+│   │   ├── middleware/
+│   │   ├── lib/
+│   │   ├── models/
+|   |   ├── routes/
+│   │   └── index.js
+│   └── package.json
+│
+└── README.md
+```
 ⚙️ Installation & Setup
 
 Clone the repository
