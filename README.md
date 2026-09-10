@@ -1,8 +1,12 @@
-💬 CircleTalk – Real-Time Chat Application  -  [Live](https://chat-app-fxia.onrender.com/)
+## 💬 CircleTalk – Real-Time Chat Application
 
 ChatSphere is a real-time web-based chat application that allows users to communicate instantly with each other. It is built using modern web technologies and supports fast, secure, and scalable real-time messaging.
 
-🚀 Features
+## Live Demo
+
+[CircleTalk](https://chat-app-fxia.onrender.com/)
+
+## 🚀 Features
 
 * 🔐 User Authentication (Signup / Login)
 
@@ -18,7 +22,7 @@ ChatSphere is a real-time web-based chat application that allows users to commun
 
 * 🔄 Live Updates without Page Refresh
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 Frontend
 
@@ -73,7 +77,7 @@ chat-app
 │
 └── README.md
 ```
-⚙️ Installation & Setup
+## ⚙️ Installation & Setup
 
 Clone the repository
 
@@ -99,11 +103,11 @@ Open your browser and visit:
 
 http://localhost:5001
 
-📌 Project Use Case
+## 📌 Project Use Case
 
 This project demonstrates how real-time communication works using Socket.IO, along with full-stack development skills such as API creation, authentication, database management, and frontend integration.
 
-📚 Learning Outcomes
+## 📚 Learning Outcomes
 
 Hands-on experience with real-time communication
 
